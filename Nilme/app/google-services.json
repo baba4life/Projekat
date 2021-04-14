@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38908590007",
+    "project_id": "social-media-app-clone-f0acb",
+    "storage_bucket": "social-media-app-clone-f0acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38908590007:android:b434fd9a007def7194da32",
+        "android_client_info": {
+          "package_name": "com.example.nilme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38908590007-kghlh87q53t7c9qlhriitm8g9bim82jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0-plsch7rYUpTc9PfKuJ-KcEBdfh0KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38908590007-kghlh87q53t7c9qlhriitm8g9bim82jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

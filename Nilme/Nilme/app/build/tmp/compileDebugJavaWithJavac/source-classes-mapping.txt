@@ -1,0 +1,2 @@
+com/example/nilme/BuildConfig.java
+ com.example.nilme.BuildConfig
